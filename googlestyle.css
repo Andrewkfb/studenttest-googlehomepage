@@ -1,0 +1,55 @@
+img {
+	height:100px;
+	width:250px;
+	display:block;
+	padding-left:50px;
+}
+
+td {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.googletext{
+	color:#404040;
+	background-color:#F5F5F5;
+	border-radius:15%;
+	text-align:center;
+}
+
+.searchbutton {
+	display:inline-block;
+	margin-left:100px;
+}
+
+.searchbox {
+	width:40em;
+	border:1px solid blue;
+}
+
+#header{
+	height:50 px;
+	display:block;
+	padding-left:750px;
+}
+
+#main{
+	margin-top:150px;
+	display:block;
+	padding-left:450px;
+}
+
+#footer{
+	height:50px;
+	display:block;
+	margin-top:16em;
+}
+
+#first{
+	display:inline-block;
+}
+
+#second{
+	display:inline-block;
+	margin-left:750px;
+}
